@@ -2,12 +2,12 @@
 A Black Ops 3 GSC Compiler and Injector for both PC and Xbox.
 
 # Features
-Animation support. \
-Single file or folder compile options. \
-Function hash output for debugging the "\**** X Script Error(s)" error. \
-Can play online with other people. \ 
-Ability to change the header used to inject PC scripts with for multi-script injection. \
-Simple PC Injector included so compiled scripts are simple to share and easy for non-developers to inject.
+- Animation support.
+- Single file or folder compile options.
+- Function hash output for debugging the "\**** X Script Error(s)" error.
+- Can play online with other people.
+- Ability to change the header used to inject PC scripts with for multi-script injection.
+- Simple PC Injector included so compiled scripts are simple to share and easy for non-developers to inject.
 
 # Buttons Explanation
 - Folder Compile: Recursively compiles folders with .gsc files in them (useful for InfinityLoader project migration) and requires a main.gsc as the starting file. If it is not ticked it will compile a single .gsc or .txt source file.
